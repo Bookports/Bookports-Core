@@ -1,4 +1,4 @@
-package com.bookports.bookportscore;
+package com.bookports.core;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

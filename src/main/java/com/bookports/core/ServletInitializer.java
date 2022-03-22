@@ -1,4 +1,4 @@
-package com.bookports.bookportscore;
+package com.bookports.core;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
